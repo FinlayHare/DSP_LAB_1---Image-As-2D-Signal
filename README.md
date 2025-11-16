@@ -1,5 +1,20 @@
 # DSP_LAB_1---Image-As-2D-Signal
-Sampling, Quantization, Histograms, Enhancement
+This script explores fundamental image processing concepts, demonstrating how images can be manipulated through sampling, quantization, and enhancement techniques.
+
+Technical Details
+
+Image Representation - 2D signal processing fundamentals
+
+Signal Transformation	- Quantization, sampling, and nonlinear scaling
+
+Image Enhancement	- Contrast manipulation and histogram analysis
+
+    Technique	            Purpose	                            Key Characteristics
+    
+    Quantization	        Reduce bit depth	                Controls image detail and file size
+    Contrast Stretching	    Enhance image visibility	        Linear histogram remapping
+    Gamma Correction	    Nonlinear brightness adjustment	    Perceptual luminance scaling
+    Sampling	            Resize and transform resolution	    Controls image detail and artifacts
 <img width="1304" height="1070" alt="Screenshot 2025-10-23 at 10 38 35" src="https://github.com/user-attachments/assets/4bd42903-ab59-41e4-ab0c-7991fb82eefc" />
 <img width="1334" height="1038" alt="Screenshot 2025-10-23 at 10 38 46" src="https://github.com/user-attachments/assets/506a8f27-bc82-43fd-8671-7611b4ba5abc" />
 <img width="2190" height="676" alt="Screenshot 2025-10-23 at 10 38 58" src="https://github.com/user-attachments/assets/188eac47-559f-4a13-9c0f-f3986a888294" />
